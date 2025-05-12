@@ -1,0 +1,136 @@
+{
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "disponible": false
+    },
+    {
+      "titulo": "El amor en los tiempos del cólera",
+      "autor": "Gabriel García Márquez",
+      "genero": "Novela romántica",
+      "disponible": true
+    },
+    {
+      "titulo": "Rayuela",
+      "autor": "Julio Cortázar",
+      "genero": "Novela experimental",
+      "disponible": false
+    },
+    {
+      "titulo": "Las venas abiertas de América Latina",
+      "autor": "Eduardo Galeano",
+      "genero": "Ensayo histórico",
+      "disponible": false
+    },
+    {
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "genero": "Cuentos",
+      "disponible": true
+    },
+    {
+      "titulo": "El Aleph",
+      "autor": "Jorge Luis Borges",
+      "genero": "Cuentos",
+      "disponible": false
+    },
+    {
+      "titulo": "Pedro Páramo",
+      "autor": "Juan Rulfo",
+      "genero": "Realismo mágico",
+      "disponible": false
+    },
+    {
+      "titulo": "El laberinto de la soledad",
+      "autor": "Octavio Paz",
+      "genero": "Ensayo",
+      "disponible": false
+    },
+    {
+      "titulo": "La casa de los espíritus",
+      "autor": "Isabel Allende",
+      "genero": "Realismo mágico",
+      "disponible": true
+    },
+    {
+      "titulo": "Veinte poemas de amor y una canción desesperada",
+      "autor": "Pablo Neruda",
+      "genero": "Poesía",
+      "disponible": false
+    },
+    {
+      "titulo": "Altazor o el viaje en paracaídas",
+      "autor": "Vicente Huidobro",
+      "genero": "Poesía vanguardista",
+      "disponible": false
+    },
+    {
+      "titulo": "La ciudad y los perros",
+      "autor": "Mario Vargas Llosa",
+      "genero": "Novela",
+      "disponible": false
+    },
+    {
+      "titulo": "Pantaleón y las visitadoras",
+      "autor": "Mario Vargas Llosa",
+      "genero": "Novela cómica",
+      "disponible": true
+    },
+    {
+      "titulo": "Santa Evita",
+      "autor": "Tomás Eloy Martínez",
+      "genero": "Novela histórica",
+      "disponible": false
+    },
+    {
+      "titulo": "Respiración artificial",
+      "autor": "Ricardo Piglia",
+      "genero": "Novela",
+      "disponible": false
+    },
+    {
+      "titulo": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "genero": "Novela",
+      "disponible": true
+    },
+    {
+      "titulo": "El túnel",
+      "autor": "Ernesto Sabato",
+      "genero": "Novela psicológica",
+      "disponible": false
+    },
+    {
+      "titulo": "Sobre héroes y tumbas",
+      "autor": "Ernesto Sabato",
+      "genero": "Novela",
+      "disponible": false
+    },
+    {
+      "titulo": "Los detectives salvajes",
+      "autor": "Roberto Bolaño",
+      "genero": "Novela",
+      "disponible": true
+    },
+    {
+      "titulo": "Aura",
+      "autor": "Carlos Fuentes",
+      "genero": "Novela corta",
+      "disponible": false
+    },
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez",
+      "genero": "Realismo mágico",
+      "disponible": true
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "genero": "Distopía",
+      "disponible": true
+    }
+  ]
+}
